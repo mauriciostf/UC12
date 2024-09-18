@@ -1,0 +1,47 @@
+#ResumoP1{
+
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    text-align: justify;
+}
+#ResumoP2{
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    text-align: justify;
+}
+#maisDetalhes{
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    text-align: justify;
+}
+p{
+    background-color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: black ;
+
+}
+h2{
+    color: yellowgreen;
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    color: yellowgreen;
+    font-size: 25px;
+    text-align: center;
+}
