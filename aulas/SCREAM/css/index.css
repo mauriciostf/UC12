@@ -19,14 +19,14 @@ text-align: center;
 #ResumoObra{
     color: rgb(0, 0, 0);
     font-family: 'Caveat', cursive;
-    background-color: tomato;
+    background-color: ;
     
 }
 #left{
     width: 600px;
-    height: 90px;
+    height: 500px;
     float: left;
-    background-color:tomato;
+    background-color:red;
 
 }
 #right img{
@@ -37,4 +37,7 @@ text-align: center;
     width: 49.5%;
     height: 90%;
     float: right;
+}
+#baixo{
+    text-align: end;
 }
